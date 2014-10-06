@@ -1,5 +1,4 @@
 # Responsive device
-=================
 
 ### Responsive web design for all device
 
